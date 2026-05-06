@@ -1,11 +1,11 @@
-# 💫 Rodrigo Rivera Martinez
+# Rodrigo Rivera Martinez
 **R&D Engineer · Climate Science PhD · Machine Learning & Earth Observation**
 
 R&D Engineer with 8+ years of experience building end-to-end ML/DL pipelines for environmental monitoring at scale. I specialise in combining physical simulations, deep learning, and satellite remote sensing to solve complex geospatial challenges, from methane plume detection to InSAR deformation analysis and forest carbon monitoring.
 
 ---
 
-### 🔭 Current Focus
+### Current Focus
 
 - **Geospatial Foundation Models:** Fine-tuning PrithviEO 2.0 (600M params) for CH₄ plume segmentation; multi-task U-Net for simultaneous pixel-level segmentation and flux quantification on Sentinel-2 data.
 - **Earth Observation Pipelines:** End-to-end systems for methane detection, SAR soil moisture anomaly detection (Sentinel-1/2), InSAR time-series deformation (MintPy/SNAP), and LiDAR forest structure analysis (GEDI/ICESat-2).
@@ -14,7 +14,7 @@ R&D Engineer with 8+ years of experience building end-to-end ML/DL pipelines for
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Deep Learning & ML**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
